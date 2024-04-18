@@ -1,0 +1,39 @@
+jd
+
+
+.main{
+    width: 100;
+    background-color: rgb(101, 237, 192);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.socialicons{
+    width: 50px;}
+
+    #navbar{
+        background-color: brown;
+        display: flex;
+        justify-content: space-between;
+        padding: 20px 50px;
+    }
+#images-section{
+    display:flex;
+    justify-content: center
+
+
+}
+#images-section img{
+    width: 30vw;
+    margin: 20px;
+}
+#images-medium img{
+    width: 10vw;
+    margin: 20px;
+
+}
+h2,p,h1{
+    text-align: center;
+}
